@@ -25,3 +25,7 @@ The following logo variants are provided:
 - **Dark version** — for light backgrounds
 - **Monochrome versions** — black or white only
 - **Icon** — square mark for avatars and app icons
+
+Always select the version that provides sufficient contrast with the background.
+
+---
