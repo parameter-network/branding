@@ -68,3 +68,8 @@ You may use Parameter brand assets for:
 - Integrations and technical support
 - Exchanges and wallets
 - Articles, reviews, and educational content
+- Presentations and ecosystem overviews
+
+All usage must clearly refer to the Parameter project.
+
+---
