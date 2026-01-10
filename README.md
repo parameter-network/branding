@@ -31,8 +31,8 @@ Using assets from this repository helps ensure brand consistency across the ecos
 
 - `logos/` — Official Parameter logos (SVG, PNG, PDF) !!!will be added soon
 - `icons/` — Icon exports in multiple sizes for integrations
-- `guidelines/` — Brand and logo usage rules
-- `colors/` — Official brand color palette
-- `exports/` — Ready-to-use packs for exchanges, wallets, and press
+- `guidelines/` — Brand and logo usage rules !!!will be added soon
+- `colors/` — Official brand color palette !!!will be added soon
+- `exports/` — Ready-to-use packs for exchanges, wallets, and press !!!will be added soon
 
 ---
