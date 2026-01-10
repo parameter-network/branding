@@ -35,3 +35,7 @@ Always select the version that provides sufficient contrast with the background.
 - **SVG** — preferred for all digital use (web, apps, UI)
 - **PNG** — use only when SVG is not supported
 - **PDF** — print and high-resolution export
+
+Never convert raster images back into vector formats.
+
+---
