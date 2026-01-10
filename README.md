@@ -13,3 +13,16 @@ All logos, icons, and related materials provided here are the only approved visu
 This repository serves as a **single source of truth** for all official Parameter visual assets.
 
 ---
+
+## Purpose of this Repository
+
+The assets in this repository may be used for:
+
+- Cryptocurrency exchanges
+- Wallets and explorers
+- dApps and integrations
+- Articles, presentations, and media publications
+
+Using assets from this repository helps ensure brand consistency across the ecosystem.
+
+---
