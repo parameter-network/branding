@@ -7,3 +7,7 @@ Following these guidelines ensures consistency and protects the integrity of the
 ---
 
 ## 1. Official Brand Assets
+
+Only assets provided in the official repository are considered valid:
+
+https://github.com/parameter-network/branding
