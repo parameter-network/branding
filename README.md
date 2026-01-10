@@ -26,3 +26,13 @@ The assets in this repository may be used for:
 Using assets from this repository helps ensure brand consistency across the ecosystem.
 
 ---
+
+## Repository Structure
+
+- `logos/` — Official Parameter logos (SVG, PNG, PDF) !!!will be added soon
+- `icons/` — Icon exports in multiple sizes for integrations
+- `guidelines/` — Brand and logo usage rules
+- `colors/` — Official brand color palette
+- `exports/` — Ready-to-use packs for exchanges, wallets, and press
+
+---
