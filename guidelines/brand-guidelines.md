@@ -19,3 +19,9 @@ Do not use logos from unofficial sources or recreate them manually.
 ## 2. Logo Variants
 
 The following logo variants are provided:
+
+- **Primary logo** — default usage
+- **Light version** — for dark backgrounds
+- **Dark version** — for light backgrounds
+- **Monochrome versions** — black or white only
+- **Icon** — square mark for avatars and app icons
