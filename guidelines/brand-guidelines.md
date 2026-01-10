@@ -94,3 +94,5 @@ For questions, approvals, or additional assets:
 
 - Email: branding@parameter.website
 - Website: https://parameter.website
+- GitHub: https://github.com/parameter-network
+
