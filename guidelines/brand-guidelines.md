@@ -86,3 +86,10 @@ For:
 Please contact us for written approval before use.
 
 ---
+
+
+## 12. Contact
+
+For questions, approvals, or additional assets:
+
+- Email: branding@parameter.website
