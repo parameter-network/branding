@@ -15,3 +15,7 @@ https://github.com/parameter-network/branding
 Do not use logos from unofficial sources or recreate them manually.
 
 ---
+
+## 2. Logo Variants
+
+The following logo variants are provided:
