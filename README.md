@@ -1,2 +1,3 @@
 # Parameter branding assets
-parameter network's branding
+
+This repository contains the **official branding assets** of the Parameter network.
