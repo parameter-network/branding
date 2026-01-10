@@ -93,3 +93,4 @@ Please contact us for written approval before use.
 For questions, approvals, or additional assets:
 
 - Email: branding@parameter.website
+- Website: https://parameter.website
