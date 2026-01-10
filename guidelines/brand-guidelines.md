@@ -39,3 +39,13 @@ Always select the version that provides sufficient contrast with the background.
 Never convert raster images back into vector formats.
 
 ---
+
+## 4. Clear Space & Sizing
+
+Maintain sufficient clear space around the logo to preserve readability.
+
+- Minimum clear space: equal to the height of the logo icon
+- Do not place text, graphics, or UI elements inside this area
+- The logo must always remain legible and unobstructed
+
+Avoid using the logo at sizes where details become unclear.
