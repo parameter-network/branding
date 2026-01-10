@@ -73,3 +73,16 @@ You may use Parameter brand assets for:
 All usage must clearly refer to the Parameter project.
 
 ---
+
+## 7. Partnerships & Commercial Use
+
+For:
+
+- Partnerships
+- Commercial usage
+- Marketing campaigns
+- Custom adaptations
+
+Please contact us for written approval before use.
+
+---
