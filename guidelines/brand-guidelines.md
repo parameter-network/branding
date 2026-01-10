@@ -61,3 +61,10 @@ If in doubt, use a solid background.
 
 ---
 
+## 6. Acceptable Use
+
+You may use Parameter brand assets for:
+
+- Integrations and technical support
+- Exchanges and wallets
+- Articles, reviews, and educational content
