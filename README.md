@@ -41,6 +41,6 @@ Using assets from this repository helps ensure brand consistency across the ecos
 
 - Website: https://parameter.website
 - GitHub: https://github.com/parameter-network
-- Contact: branding@parameter.xyz
+- Contact: branding@parameter.website
 
 If you have questions regarding logo usage or need additional formats, feel free to reach out.
