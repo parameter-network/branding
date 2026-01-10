@@ -36,3 +36,11 @@ Using assets from this repository helps ensure brand consistency across the ecos
 - `exports/` — Ready-to-use packs for exchanges, wallets, and press !!!will be added soon
 
 ---
+
+## Contact & Links
+
+- Website: https://parameter.website
+- GitHub: https://github.com/parameter-network
+- Contact: branding@parameter.xyz
+
+If you have questions regarding logo usage or need additional formats, feel free to reach out.
