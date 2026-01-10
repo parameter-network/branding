@@ -49,3 +49,15 @@ Maintain sufficient clear space around the logo to preserve readability.
 - The logo must always remain legible and unobstructed
 
 Avoid using the logo at sizes where details become unclear.
+
+## 5. Background Usage
+
+- Use **dark logo** on light backgrounds
+- Use **light logo** on dark backgrounds
+- Avoid noisy, low-contrast, or patterned backgrounds
+- Do not place the logo over images unless readability is guaranteed
+
+If in doubt, use a solid background.
+
+---
+
