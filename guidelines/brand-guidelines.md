@@ -16,6 +16,14 @@ Do not use logos from unofficial sources or recreate them manually.
 
 ---
 
+## 2. Logo Concept
+
+The Parameter logo is a **typographic mark** represented as:
+
+p(x)
+
+
+
 ## 2. Logo Variants
 
 The following logo variants are provided:
