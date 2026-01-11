@@ -64,7 +64,7 @@ Avoid using the logo at sizes where the parentheses or letterforms lose clarity.
 
 ---
 
-## 7. Do Not Modify the Logo
+## 6. Do Not Modify the Logo
 
 You may **not**:
 
@@ -73,7 +73,10 @@ You may **not**:
 - Modify the parentheses `( )`
 - Remove or isolate individual characters
 - Rotate, skew, stretch, or crop the logo
+- Add shadows, outlines, or visual effects
+- Animate the logo without explicit approval
 
+The logo must always be used **exactly as provided**.
 
 ---
 
