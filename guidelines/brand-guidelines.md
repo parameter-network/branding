@@ -136,6 +136,6 @@ For questions, approvals, or additional assets:
 - Website: https://parameter.website
 - GitHub: https://github.com/parameter-network
 
-
+---
 
 Last updated: 2026.01.11
