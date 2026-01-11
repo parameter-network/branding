@@ -24,7 +24,9 @@ p(x)
 
 It references mathematical functions, parameters, and formal systems, reflecting the technical and deterministic nature of the Parameter blockchain.
 
+The parentheses `( )` are a **core semantic and visual element** of the logo.
 
+---
 
 ## 2. Logo Variants
 
