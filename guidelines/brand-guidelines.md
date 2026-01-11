@@ -30,15 +30,15 @@ The parentheses `( )` are a **core semantic and visual element** of the logo.
 
 ## 3. Logo Variants
 
-The following logo variants are provided:
+The following official variants are provided:
 
-- **Primary logo** — default usage
-- **Light version** — for dark backgrounds
-- **Dark version** — for light backgrounds
-- **Monochrome versions** — black or white only
-- **Icon** — square mark for avatars and app icons
+- **Primary logo** — `p(x)` in dark color on light background
+- **Light version** — `p(x)` in white for dark backgrounds
+- **Dark version** — `p(x)` in black for light backgrounds
+- **Monochrome versions** — pure black or pure white only
+- **Icon version** — simplified mark for small sizes and square formats
 
-Always select the version that provides sufficient contrast with the background.
+Always choose the version that provides sufficient contrast and readability.
 
 ---
 
