@@ -115,16 +115,15 @@ You may **not** use the brand assets:
 
 ---
 
-## 7. Partnerships & Commercial Use
+## 10. Partnerships & Commercial Use
 
-For:
+For the following cases, prior written approval is required:
 
-- Partnerships
-- Commercial usage
-- Marketing campaigns
-- Custom adaptations
+- Partnerships and joint marketing
+- Commercial or promotional campaigns
+- Custom adaptations or special placements
 
-Please contact us for written approval before use.
+Please contact us before use.
 
 ---
 
