@@ -80,14 +80,14 @@ The logo must always be used **exactly as provided**.
 
 ---
 
-## 5. Background Usage
+## 7. Background Usage
 
-- Use **dark logo** on light backgrounds
-- Use **light logo** on dark backgrounds
-- Avoid noisy, low-contrast, or patterned backgrounds
+- Use dark logo variants on light backgrounds
+- Use light logo variants on dark backgrounds
+- Avoid noisy, patterned, or low-contrast backgrounds
 - Do not place the logo over images unless readability is guaranteed
 
-If in doubt, use a solid background.
+When in doubt, use a solid background.
 
 ---
 
