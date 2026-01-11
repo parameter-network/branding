@@ -28,7 +28,7 @@ The parentheses `( )` are a **core semantic and visual element** of the logo.
 
 ---
 
-## 2. Logo Variants
+## 3. Logo Variants
 
 The following logo variants are provided:
 
