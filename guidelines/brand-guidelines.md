@@ -64,6 +64,19 @@ Avoid using the logo at sizes where the parentheses or letterforms lose clarity.
 
 ---
 
+## 7. Do Not Modify the Logo
+
+You may **not**:
+
+- Change colors or apply gradients
+- Alter proportions or aspect ratio
+- Modify the parentheses `( )`
+- Remove or isolate individual characters
+- Rotate, skew, stretch, or crop the logo
+
+
+---
+
 ## 5. Background Usage
 
 - Use **dark logo** on light backgrounds
