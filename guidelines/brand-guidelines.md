@@ -100,7 +100,7 @@ You may use Parameter brand assets for:
 - Articles, reviews, and educational content
 - Presentations and ecosystem overviews
 
-All usage must clearly and truthfully refer to the Parameter.
+All usage must clearly and truthfully refer to the Parameter network.
 
 ---
 
