@@ -62,7 +62,7 @@ To preserve legibility, maintain clear space around the logo.
 
 Avoid using the logo at sizes where the parentheses or letterforms lose clarity.
 
-
+---
 
 ## 5. Background Usage
 
