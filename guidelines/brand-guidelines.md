@@ -42,13 +42,13 @@ Always choose the version that provides sufficient contrast and readability.
 
 ---
 
-## 3. Preferred Formats
+## 4. Preferred Formats
 
-- **SVG** — preferred for all digital use (web, apps, UI)
+- **SVG** — preferred for all digital usage (web, apps, UI)
 - **PNG** — use only when SVG is not supported
 - **PDF** — print and high-resolution export
 
-Never convert raster images back into vector formats.
+Do not convert raster images back into vector formats.
 
 ---
 
