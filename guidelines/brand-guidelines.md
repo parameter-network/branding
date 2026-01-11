@@ -128,7 +128,7 @@ Please contact us before use.
 ---
 
 
-## 12. Contact
+## 11. Contact
 
 For questions, approvals, or additional assets:
 
