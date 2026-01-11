@@ -104,6 +104,17 @@ All usage must clearly and truthfully refer to the Parameter network.
 
 ---
 
+## 9. Prohibited Use
+
+You may **not** use the brand assets:
+
+- In a misleading or deceptive context
+- To imply endorsement, partnership, or affiliation without permission
+- In connection with illegal, fraudulent, or harmful activities
+- As part of another brand, logo, or product identity
+
+---
+
 ## 7. Partnerships & Commercial Use
 
 For:
