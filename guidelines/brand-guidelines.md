@@ -91,16 +91,16 @@ When in doubt, use a solid background.
 
 ---
 
-## 6. Acceptable Use
+## 8. Acceptable Use
 
 You may use Parameter brand assets for:
 
-- Integrations and technical support
-- Exchanges and wallets
+- Exchanges, wallets, and explorers
+- Technical integrations and documentation
 - Articles, reviews, and educational content
 - Presentations and ecosystem overviews
 
-All usage must clearly refer to the Parameter project.
+All usage must clearly and truthfully refer to the Parameter.
 
 ---
 
